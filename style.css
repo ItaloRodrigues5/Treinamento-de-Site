@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+table tr:nth-child(odd) {
+    background: steelblue;
+}
+
+.tb, tr, th, td {
+    border-collapse: collapse;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.tb {
+    margin: 5rem auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    text-align: center;
+
+}
+
+a:link{
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+a:hover{
+    color: purple;
+    text-decoration: underline;
+}
+
+a:visited {
+    color:crimson;
+    
+}
+a:active{
+    color: darkblue
+}
+
+.um{
+    background-image: url("images/20220929_010133.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:92rem auto;
+}
+
+.dois{
+    background-image: url("images/DqhxKYWVYAA3tbW.jpeg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:92rem auto;
+}
+
+
+.tres{
+    background-image: url("images/E_l5n1HVcAMIHp2.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:92rem auto;
+}
+
+.quatro{
+    background-image: url("images/20210627-20210627--mb0k1hlm3ls.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:92rem auto;
+}
+
+.cinco{
+    background-image: url("images/ioGtNzE.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:92rem auto;
+}
